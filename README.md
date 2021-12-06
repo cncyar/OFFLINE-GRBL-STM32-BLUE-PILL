@@ -1,5 +1,5 @@
-# LCD-GRBL-STM32-BLUE-PILL
-fork from LCD GRBL for STM32F103C8T6 (64k)
+Основано на https://github.com/cguerrero1205/LCD_GRBL
+
 Это автономный контроллер для станка с ЧПУ с GRBL V1.1.
 
 Он выполняет основные функции, такие как:
@@ -15,23 +15,11 @@ fork from LCD GRBL for STM32F103C8T6 (64k)
 -SPI картридер SD
 -ЖК-экран с модулем i2c
 
-Файл для компиляции из Arduino IDE находится в папке LCD_GRBL / src / CodigoSTM32.ino.
+Файл для компиляции из Arduino IDE находится в папке LCD_GRBL / src / CodigoSTM32.ino
+Предваритель скомпилированный файл HEX для 3-х осей находится в папке LCD_GRBL / HEX / CodigoSTM.ino.PILL_F103XX.bin
 
 Если вы хотите работать с VSCode и PlatformIO, импортируйте папку, содержащую
 файл platformio.ini. В этой папке уже есть необходимые библиотеки для
 работы проекта, поэтому скачивать их не нужно.
 
 Если вы хотите сотрудничать с проектом, вы можете сделать это через PayPal https://www.paypal.com/paypalme/cncyar.
-
-© 2021 GitHub, Inc.
-Условия
-Конфиденциальность
-Безопасность
-Положение дел
-Документы
-Связаться с GitHub
-Ценообразование
-API
-Обучение
-Блог
-О
