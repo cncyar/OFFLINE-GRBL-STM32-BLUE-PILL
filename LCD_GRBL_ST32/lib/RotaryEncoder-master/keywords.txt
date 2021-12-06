@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map RotaryEncoder
+#######################################
+
+#######################################
+# Datatypes	(KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+readAB	KEYWORD2
+readPushButton	KEYWORD2
+
+getPosition	KEYWORD2
+getPushButton	KEYWORD2
+setPosition	KEYWORD2
+setPushButton	KEYWORD2
+
+getValue	KEYWORD2
+setValue	KEYWORD2
+
+getStepsPerClick	KEYWORD2
+setStepsPerClick	KEYWORD2
+
+getMinValue	KEYWORD2
+setMinValue	KEYWORD2
+
+getMaxValue	KEYWORD2
+setMaxValue	KEYWORD2
+
+setValues	KEYWORD2
+
+#######################################
+# Instances	(KEYWORD2)
+#######################################
+
+RotaryEncoder	KEYWORD2
+RotaryEncoderAdvanced	KEYWORD2
+
+#######################################
+# Constants	(LITERAL1)
+#######################################
